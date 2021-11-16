@@ -3,3 +3,9 @@ div {
   color: rgba(red, rgb(116, 224, 116), blue, alpha);
   display: flex;
 }
+
+div button {
+  border-radius: 32px;
+  font-weight: 500px;
+  color: blue;
+}
