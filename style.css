@@ -4,8 +4,7 @@ div {
   display: flex;
 }
 
-div button {
-  border-radius: 32px;
-  font-weight: 500px;
-  color: blue;
+section {
+  background-color: rgb(116, 224, 116);
+  border: 1px border black;
 }
