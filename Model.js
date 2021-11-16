@@ -1,4 +1,5 @@
 let Model = {
   _id: 1,
-  name: 'Juan'
+  firstName: 'Juan',
+  lastName: 'Stroman Ilz'
 };
