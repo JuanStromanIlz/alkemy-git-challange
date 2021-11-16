@@ -1,3 +1,5 @@
 div {
   border: 1px solid black;
+  color: rgba(red, rgb(116, 224, 116), blue, alpha);
+  display: flex;
 }
