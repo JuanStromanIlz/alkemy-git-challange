@@ -3,3 +3,8 @@ div {
   color: rgba(red, rgb(116, 224, 116), blue, alpha);
   display: flex;
 }
+
+section {
+  background-color: rgb(116, 224, 116);
+  border: 1px border black;
+}
